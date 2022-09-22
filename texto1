@@ -1,2 +1,7 @@
 este sera un nuevo proyecto estamos muy emocionados por todo
+<<<<<<< HEAD
 ahora primero haremos un nuevo cambio y agregaremos el primer commit, agregare algo en esta misma linea para hacer la fusion correctamente
+=======
+
+haremos los primeros cambios en rama 1 esto deberia aparecer al final de la fusion en el master 
+>>>>>>> rama1
